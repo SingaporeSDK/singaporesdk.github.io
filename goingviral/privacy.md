@@ -16,7 +16,7 @@ Your game progress (days unlocked, stars, coins, items and settings) is stored o
 
 The game shows ads from Google AdMob. The Google Mobile Ads SDK may collect your device's advertising ID, approximate location (from your IP address), app interactions and diagnostic data, and share them with Google and its advertising partners to show and measure ads. Learn how Google uses this data: https://policies.google.com/technologies/partner-sites
 
-In the EEA, the UK and Switzerland, the game asks for your consent before showing personalised ads. You can change your choice at any time with PRIVACY OPTIONS on the home screen. On iPhone, the game asks for permission before tracking (App Tracking Transparency). You can also reset or limit your advertising ID in your phone's settings.
+In the EEA, the UK and Switzerland, the game asks for your consent before showing personalised ads. You can change your choice at any time with PRIVACY OPTIONS on the home screen. The game does not track you across other companies' apps or websites, so on iPhone ads are not personalised. You can also reset or limit your advertising ID in your phone's settings.
 
 ## Location, camera and contacts
 
